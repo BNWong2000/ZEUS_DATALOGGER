@@ -1,4 +1,4 @@
-Device for logging data from an electric motorcycle. 
+Device for logging data from an electric motorcycle. \n
 Goals:
   - Data extraction and formatting
   - Support data from temperature sensor.
