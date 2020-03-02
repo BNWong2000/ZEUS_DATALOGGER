@@ -3,7 +3,7 @@ import time
 def printStuff():
     print("hehehe")
     
-def main:
+def main():
     printStuff()
     
 if __name__ == __main__:
