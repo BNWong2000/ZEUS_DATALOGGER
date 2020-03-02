@@ -6,5 +6,5 @@ def printStuff():
 def main():
     printStuff()
     
-if __name__ == __main__:
+if __name__ == "__main__":
     main()
