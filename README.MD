@@ -1,4 +1,4 @@
-## Team Zeus Data Logger
+## ⚡ Team Zeus Data Logger ⚡
 ### Device for logging raw data from an electric motorcycle.
 #### Goals:
   - Data extraction and formatting
