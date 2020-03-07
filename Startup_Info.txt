@@ -1,0 +1,10 @@
+How to make a script run on start up:
+  1. On the root user, run the command 'sudo raspi-config'
+  2. choose 'Boot Options' -> 'Desktop/CLI' -> 'Console Autologin' then exit this menu.
+      - this will mean you do not need to login to start the script. 
+  3. run 'sudo nano /etc/profile'
+  4. go to the bottom of the file and add the line: 'sudo python [PATH TO PYTHON SCRIPT]' to this file. 
+     right now, this is set to 'sudo python /home/pi/Desktop/x.py' 
+      - this file is the script that will run when the pi starts up. by adding this line, then we are telling to pi to start the
+        python script right after finishing all the boot commands. 
+  
