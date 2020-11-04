@@ -1,0 +1,9 @@
+"batteryTemp,coolingLoopTemp,batteryVoltage,batteryCurrent,speedData,locationXData,locationYData"
+24,27,3,1,11,1,2
+23,24,4,2,12,2,1
+45,49,5,3,13,2,2
+56,53,6,4,14,2,2
+34,33,7,5,15,3,2
+65,68,8,6,16,2,3
+78,71,9,7,17,4,2
+69,62,2,8,18,2,4
