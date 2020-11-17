@@ -13,8 +13,8 @@ locationData = [[1, 2], [2, 1], [2, 2], [2, 2], [3, 2], [2, 3], [4, 2], [2, 4]]
 def create_file(filename):
     with open(filename, 'w', newline='') as f:
         datafile = csv.writer(f)
-        datafile.writerow(["batteryTemp" + "," + "coolingLoopTemp" + "," + "batteryVoltage" + "," + "batteryCurrent" +
-                           "," + "speedData" + "," + "locationXData" + "," + "locationYData"])
+        datafile.writerow(["batteryTemp" , "coolingLoopTemp" , "batteryVoltage" , "batteryCurrent" ,
+                           "speedData" ,  "locationXData" , "locationYData"])
     return datafile
 
 
