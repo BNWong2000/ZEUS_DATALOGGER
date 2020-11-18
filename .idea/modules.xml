@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ZEUS_DATALOGGER.iml" filepath="$PROJECT_DIR$/.idea/ZEUS_DATALOGGER.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataLogger.iml" filepath="$PROJECT_DIR$/.idea/DataLogger.iml" />
+>>>>>>> 00e77aa89d743c7c5479509d42fb1708e3f30237
     </modules>
   </component>
 </project>
